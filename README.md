@@ -38,17 +38,52 @@ If the output is 1, then the led glows.
 Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
+
+Developed by: NIVETHA S
+
+RegisterNumber: 23002894 
+
+ Code:
+
+ Half Adder:
+
+ ![Exp3 ha code](https://github.com/nivethasuresh1408/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152055927/9f81cd2a-4427-4ee5-8aa7-b01901c7d731)
+
+Full Adder:
+
+![Exp3 fa code](https://github.com/nivethasuresh1408/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152055927/c8e6ea30-e22f-411f-b60d-0b02a4534855)
+
+Truth table:
+
+Half adder:
+
+![Exp3 truthtable (ha)](https://github.com/nivethasuresh1408/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152055927/f628c321-b6b7-423d-b0f7-f8984e228c65)
+
+Full adder:
+
+![Exp3 truthtable (fa)](https://github.com/nivethasuresh1408/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152055927/bc649806-4f7d-4858-b8f6-fb9cf0d0835c)
+
+RTL Diagram:
+
+Half adder:
+
+![Exp3 ha RTL diagram](https://github.com/nivethasuresh1408/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152055927/0a030138-bc95-4d9a-a751-12691ed01d5f)
+
+Full adder:
+
+![Exp3 fa RTL diagram](https://github.com/nivethasuresh1408/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152055927/6c21242c-6084-450f-867d-9a20ffd7322c)
 
 ### Output:
-### RTL
-### TIMING DIAGRAM
 
+Half adder:
 
-### TRUTH TABLE 
+![halfadder-wave](https://github.com/nivethasuresh1408/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152055927/00462eb2-bee0-4af1-bd32-795ca6656e77)
+
+Full Adder:
+
+![Exp3 fa wave](https://github.com/nivethasuresh1408/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152055927/a8b4a085-6964-46ca-a784-7742f3442fca)
+
 
 ### Result:
+Thus the half adder and full adder circuit are designed and the truth table for half adder and full
+adder are verified.
